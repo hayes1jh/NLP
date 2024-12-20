@@ -11,7 +11,6 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
-
 namespace PDFManipulator
 {
     public  class DrawStringAsImage
