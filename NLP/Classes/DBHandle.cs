@@ -4,7 +4,6 @@ using System.Collections.Generic;
 using System.Configuration;
 using System.Data.SqlClient;
 
-
 namespace NLP
 {
     public class DBHandle
