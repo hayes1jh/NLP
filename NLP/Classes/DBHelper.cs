@@ -1,9 +1,6 @@
 ﻿
 using System.Data;
 using System.Data.SqlClient;
-
- 
-
 namespace NLP
 {
     public static class DbHelper
