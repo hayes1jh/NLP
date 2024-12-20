@@ -5,8 +5,6 @@ using System.Data.Common;
 using System.Diagnostics;
 using System.Data.SqlClient;
 
-
-
 namespace NLP
 {
     class DAL : IDisposable
